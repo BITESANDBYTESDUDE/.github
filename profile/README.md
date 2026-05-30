@@ -6,7 +6,7 @@
 
 We design and build high-quality software products for modern businesses.
 
-[![GitHub Organization](https://img.shields.io/badge/GitHub-NEXOLARY--TECH-181717?style=for-the-badge&logo=github)](https://github.com/NEXOLARY-TECH)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-BITESANDBYTESDUDE-181717?style=for-the-badge&logo=github)](https://github.com/NEXOLARY-TECH)
 [![Focus](https://img.shields.io/badge/Focus-Web%20%7C%20Cloud%20%7C%20Product-blue?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](#)
 
