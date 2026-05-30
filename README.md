@@ -1,6 +1,6 @@
-# NEXOLARY-TECH
+# BITESANDBYTESDUDE
 
-Welcome to the official `.github` repository for **NEXOLARY-TECH**.
+Welcome to the official `.github` repository for **BITESANDBYTESDUDE**.
 
 This repository manages organization-level profile content shown publicly on GitHub.
 
@@ -13,5 +13,5 @@ The public organization profile is available in:
 ---
 
 <div align="center">
-  Built with ❤️ by <strong>NEXOLARY-TECH</strong>
+  Built with ❤️ by <strong>BITESANDBYTESDUDE</strong> — software agency
 </div>
