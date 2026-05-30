@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:2563eb&text=NEXOLARY-TECH&fontColor=ffffff&fontSize=56&fontAlignY=42&desc=Building%20modern%20digital%20experiences&descSize=18&descAlignY=62" width="100%" alt="NEXOLARY-TECH banner" />
 
-# 🚀 Welcome to NEXOLARY-TECH
+# 🚀 Welcome to BITESANDBYTESDUDE
 
 We design and build high-quality software products for modern businesses.
 
@@ -16,7 +16,7 @@ We design and build high-quality software products for modern businesses.
 
 ## 🌟 About Us
 
-**NEXOLARY-TECH** is focused on creating scalable, reliable, and user-centric digital solutions.
+**BITESANDBYTESDUDE** is focused on creating scalable, reliable, and user-centric digital solutions.
 
 ### What we do
 - Product Engineering
@@ -50,7 +50,7 @@ We design and build high-quality software products for modern businesses.
 
 <div align="center">
 
-<a href="https://github.com/NEXOLARY-TECH">
+<a href="https://github.com/bitesandbytesdude">
   <img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -60,7 +60,7 @@ We design and build high-quality software products for modern businesses.
 
 <div align="center">
 
-### ✨ NEXOLARY-TECH
+### ✨ BITESANDBYTESDUDE
 **Innovate. Build. Scale.**
 
 </div>
